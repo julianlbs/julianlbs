@@ -1,5 +1,5 @@
 # Hi, I'm Julian 👨‍💻
-### 🇧🇷 Brazilian Web Developer
+### 🇧🇷 Brazilian Full Stack Developer
 
 ## *My Skills*
 <div align="center" >
